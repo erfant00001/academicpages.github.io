@@ -5,4 +5,4 @@ collection: portfolio
 ---
 A set of clean, step-by-step PINN implementations (heat, Burgers, Navier–Stokes) in **PyTorch** and **DeepXDE**, written as a from-scratch learning resource.
 
-[View on GitHub](https://github.com/erfant00001/pinns-my-implementations)
+[View on GitHub](https://github.com/erfan-taatizadeh/pinns-my-implementations)

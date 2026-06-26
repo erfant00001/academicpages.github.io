@@ -5,4 +5,4 @@ collection: portfolio
 ---
 Implementations of Deep Operator Networks (DeepONet) for operator learning, covering ODE integration, the 1D heat equation, and Navier–Stokes — learning mappings between function spaces rather than single solutions.
 
-[View on GitHub](https://github.com/erfant00001/deeponet-operator-learning)
+[View on GitHub](https://github.com/erfan-taatizadeh/deeponet-operator-learning)

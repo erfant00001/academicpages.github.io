@@ -5,4 +5,4 @@ collection: portfolio
 ---
 A collection of forward physics-informed neural-network solvers for canonical PDEs — 1D/2D Burgers, 1D/2D heat, and Navier–Stokes (including particle tracing) — implemented in **PyTorch** and **DeepXDE**.
 
-[View on GitHub](https://github.com/erfant00001/physics-informed-neural-networks)
+[View on GitHub](https://github.com/erfan-taatizadeh/physics-informed-neural-networks)
