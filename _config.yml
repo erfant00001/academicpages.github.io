@@ -5,9 +5,9 @@ title                    : "Erfan Taatizadeh"
 title_separator          : "-"
 name                     : &name "Erfan Taatizadeh"
 description              : &description "Postdoctoral Scholar in Biomedical Engineering & Radiology at UC Davis — physics-informed neural networks, scientific machine learning, and computational modeling for medicine."
-url                      : https://erfant00001.github.io
+url                      : https://erfan-taatizadeh.github.io
 baseurl                  : ""
-repository               : "erfant00001/erfant00001.github.io"
+repository               : "erfan-taatizadeh/erfan-taatizadeh.github.io"
 
 # Site Author - controls the left-hand sidebar
 author:
@@ -40,7 +40,7 @@ author:
   bitbucket        :
   codepen          :
   dribbble         :
-  github           : "erfant00001"
+  github           : "erfan-taatizadeh"
   kaggle           :
   stackoverflow    :
 
