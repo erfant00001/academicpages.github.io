@@ -19,15 +19,25 @@
 <link rel="icon" href="/images/favicon.ico"/>
 <meta name="theme-color" content="var(--global-bg-color)"/>
 
-<!-- Crop the sidebar profile photo to a clean circle centered on the face -->
+<!-- Crop & zoom the sidebar profile photo into a clean circle centered on the face -->
 <style>
-  .author__avatar img {
+  .author__avatar {
     width: 160px !important;
     height: 160px !important;
     max-width: 100%;
-    object-fit: cover;
-    object-position: 35% 25%;
     border-radius: 50%;
+    overflow: hidden;
+    margin: 0 auto;
+  }
+  .author__avatar img {
+    width: 160px !important;
+    height: 160px !important;
+    max-width: none !important;
+    border-radius: 0;
+    object-fit: cover;
+    object-position: 0% 50%;
+    transform: scale(1.7);
+    transform-origin: 47% 34%;
   }
 </style>
 
